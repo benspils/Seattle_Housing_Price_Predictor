@@ -34,7 +34,7 @@ A model was developed to predict housing pricing with an R^2 correlation of ~0.8
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Seatle_House_Model_Process.ipynb).
+See the full analysis in the [Jupyter Notebook](./Seattle_House_Model_Process.ipynb).
 
 For additional info, contact Ben Spilsbury at [benjamin.spilsbury@gmail.com](mailto:benjamin.spilsbury@gmail.com)
 
